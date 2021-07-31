@@ -1,10 +1,12 @@
-body{
-    background-color: aliceblue;
-}
-
 h1{
-  padding: 80px;
+  padding: 50px;
   text-align: center;
   background: #1abc9c;
   color: white;
+}
+p{
+    background-color: beige;
+    text-align: left;
+    color: black;
+
 }
